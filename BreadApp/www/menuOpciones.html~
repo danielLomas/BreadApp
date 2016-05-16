@@ -11,13 +11,19 @@
     <body>
         <div class="app">
         		<div id="inicio">
-				<button class="boton">
-					<a href="menuOpciones.html" style="text-decoration: none ">Opciones</a>
-				</button>
-				<br><br><br><br><br><br><br>
-				<button class="boton">
-					<a href="salir.html" style="text-decoration: none ">Salir</a>
-				</button>
+        				<br><br><br>
+        				<button class="boton">
+							<a href="verReceta.html" style="text-decoration: none ">Ver</a>
+						</button><br>
+						<button class="boton">
+							<a href="editarReceta.html" style="text-decoration: none ">Editar</a>
+						</button><br>
+						<button class="boton">
+							<a href="agregarReceta.html" style="text-decoration: none ">Agregar</a>
+						</button><br>
+						<button class="boton">
+							<a href="index.html" style="text-decoration: none ">Regresar</a>
+						</button><br>
 				</div>
         </div>
         <script type="text/javascript" src="cordova.js"></script>

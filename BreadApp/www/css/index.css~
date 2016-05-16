@@ -147,7 +147,7 @@ label
     label {
         background-position:left center;
         padding:5px 0px 0px 170px;  /* padding-top + padding-bottom + text area = image height */
-        margin:-40px 10px 20px -300px;  /* offset vertical: half of image height */
+        margin:-40px 10px 20px -290px;  /* offset vertical: half of image height */
                                       /* offset horizontal: half of image width and text area width */
     }
 }
